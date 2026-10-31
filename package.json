@@ -1,0 +1,12 @@
+{
+  "name": "metro-file-map-cross-drive-relative-symlink",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "bundle": "metro build index.js --platform android --out bundle.js"
+  },
+  "dependencies": {
+    "metro": "0.87.2",
+    "metro-config": "0.87.2"
+  }
+}
